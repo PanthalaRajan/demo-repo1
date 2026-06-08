@@ -1,5 +1,11 @@
-#Demo 1
+# Demo1
 
-Some Text
+Some Description!
 
-Updated README
+## Subheader
+
+Watched Tutorial on YouTube.
+
+## Local Development
+
+1. Open index.html in your browser.
